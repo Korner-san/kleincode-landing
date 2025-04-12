@@ -52,7 +52,7 @@ export default function Home() {
             דפי נחיתה שמושכים תשומת לב ומייצרים תוצאות
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 max-w-2xl mx-auto">
-            אנחנו בונים דפי נחיתה מרהיבים וממירים לפרסום, יצירת לידים ונוכחות מקוונת
+            אנחנו בונים דפי נחיתה מושלמים וממירים לפרסום, יצירת לידים ונוכחות מקוונת
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center pt-6">
             <Button className="bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-700 hover:to-indigo-700 text-white border-none px-8 py-6 text-lg group transition-all duration-300 shadow-[0_0_15px_rgba(139,92,246,0.5)] hover:shadow-[0_0_25px_rgba(139,92,246,0.7)]">
